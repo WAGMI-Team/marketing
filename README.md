@@ -16,3 +16,5 @@ Marketing stuff, not more.
 - [Discord](https://discord.gg/yoomoota)
 - [Twitter](https://www.twitter.com/yoomoota)
 - [Instagram](https://www.instagram.com/yoomoota)
+
+![Make with love 💚](/static/green_bubble.png)
